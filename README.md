@@ -15,4 +15,5 @@ ResetPassword Link:
 <img width="680" alt="Reset password link" src="https://github.com/iamLalitha/PasswordReset-frontend/assets/130632883/c680e2d1-b119-4bd6-b619-972b9522a7aa">
 
 Password Updation:
-<img width="960" alt="Password updation" src="https://github.com/iamLalitha/PasswordReset-frontend/assets/130632883/fb21e4e3-318e-44df-a499-e98e2150f7eb">
+<img width="960" alt="Password updated successfully" src="https://github.com/iamLalitha/PasswordReset-frontend/assets/130632883/28c7856a-5def-47fc-a323-a4f42d317cc8">
+
